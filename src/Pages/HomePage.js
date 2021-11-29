@@ -29,16 +29,19 @@ function HomePage() {
                 </p>
                 <div className='icons'>
                     <a
-                        href='https://codepen.io/pen/'
+                        href='https://www.facebook.com/rakibul.islam.1990'
                         className='icon i-facebook'
                     >
                         <FacebookIcon />
                     </a>
-                    <a href='https://codepen.io/pen/' className='icon i-github'>
+                    <a
+                        href='https://github.com/Rakib0101'
+                        className='icon i-github'
+                    >
                         <GithubIcon />
                     </a>
                     <a
-                        href='https://codepen.io/pen/'
+                        href='https://www.linkedin.com/in/rakibul-islam-659670193//'
                         className='icon i-linkedin'
                     >
                         <LinkedInIcon />
